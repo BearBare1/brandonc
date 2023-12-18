@@ -1,1 +1,5 @@
-# brandonc
+# brandon chan's cal poly gitgub
+## projects:
+
+1. [retail analytics](https://linkmehere.com)
+2. [business intelligence]
